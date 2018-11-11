@@ -42,6 +42,10 @@ img {
 	left: -2.5em;
 }
 
+.fa-ul {
+	margin-left: 0;
+}
+
 .post ul {
 	list-style: none;
 	margin-top: 0.5rem;
@@ -65,7 +69,7 @@ img {
 	display: flex;
 	align-items: center;*/
 	border-radius: 5px;
-	width: 100%;
+	/*width: 100%;*/
 }
 
 .sidebar li {
