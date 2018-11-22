@@ -8,8 +8,15 @@
     </url>
     
     <url>
+        <loc>https://landurlaub-menzel.de/Impressum/</loc>
+        <lastmod>2018-11-22T20:42:08.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://landurlaub-menzel.de/Datenschutz/</loc>
-        <lastmod>2018-11-11T13:01:48.050Z</lastmod>
+        <lastmod>2018-11-22T20:42:03.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -17,13 +24,6 @@
     <url>
         <loc>https://landurlaub-menzel.de/Kontakt/</loc>
         <lastmod>2018-10-19T09:14:46.034Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://landurlaub-menzel.de/Impressum/</loc>
-        <lastmod>2018-09-24T14:21:04.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

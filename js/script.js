@@ -81,7 +81,7 @@
 
     function fixWelcomeHeight() {
         if (!document.getElementsByClassName('full-screen-welcome').length) return;
-        console.log(screen.orientation);
+        //console.log(screen.orientation);
         //alert(window.innerHeight);
         //alert(document.documentElement.clientHeight);
         //alert(window.orientation);
