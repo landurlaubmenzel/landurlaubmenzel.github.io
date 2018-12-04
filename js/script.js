@@ -67,7 +67,10 @@
         
         var image = document.createElement('img');
         image.className = 'popup-photo';
-        image.src = this.src.replace("klein", "voll");;
+        image.src = this.src.replace("klein", "voll");
+        image.src = image.src.replace("@1x", "");
+        image.src = image.src.replace("@2x", "");
+
         //image.src = this.src;
 
         popup.appendChild(image);
