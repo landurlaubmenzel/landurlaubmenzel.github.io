@@ -86,11 +86,28 @@ img {
 	padding: 15px;
 	padding-left: 2.5em;
 	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .sidebar li:before {
 	content: "";
 	padding: 0;
+}
+
+.sidebar .booking-link {
+	background-color: #f7f7f7;
+	background-color: #007a37;
+	width: 100%;
+	display: block;
+	padding: 15px;
+	color: white;
+	text-align: center;
+	font-weight: 400;
+}
+
+.sidebar .booking-link:hover {
+	text-decoration: none;
+	background-color: #005e2a
 }
 
 body {

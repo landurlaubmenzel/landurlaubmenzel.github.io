@@ -8,8 +8,58 @@
     </url>
 
     <url>
+        <loc>https://landurlaub-menzel.de/Ausflugsziele/</loc>
+        <lastmod>2018-12-07T10:05:33.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/1</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/2</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/3</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/4</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/5</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/6</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/ausflug/7</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://landurlaub-menzel.de/Unser-Bauernhof/</loc>
-        <lastmod>2018-12-04T21:19:46.164Z</lastmod>
+        <lastmod>2018-12-07T10:05:17.643Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -88,96 +138,8 @@
     </url>
 
     <url>
-        <loc>https://landurlaub-menzel.de/Ausflugsziele/</loc>
-        <lastmod>2018-12-04T17:51:22.718Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/1</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/2</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/3</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/4</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/5</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/6</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/ausflug/7</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://landurlaub-menzel.de/Ferienwohnung-Sonnenblume/</loc>
-        <lastmod>2018-12-04T17:51:19.561Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/sonnenblume/1</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/sonnenblume/2</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/sonnenblume/3</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/sonnenblume/4</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://landurlaub-menzel.de/sonnenblume/5</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
         <loc>https://landurlaub-menzel.de/Ferienwohnung-Rose/</loc>
-        <lastmod>2018-12-04T17:51:16.747Z</lastmod>
+        <lastmod>2018-12-07T10:05:05.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -214,8 +176,46 @@
     </url>
 
     <url>
+        <loc>https://landurlaub-menzel.de/Ferienwohnung-Sonnenblume/</loc>
+        <lastmod>2018-12-07T10:05:00.314Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/sonnenblume/1</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/sonnenblume/2</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/sonnenblume/3</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/sonnenblume/4</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://landurlaub-menzel.de/sonnenblume/5</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://landurlaub-menzel.de/Ferienhaus-am-See/</loc>
-        <lastmod>2018-12-04T17:51:13.295Z</lastmod>
+        <lastmod>2018-12-07T10:03:37.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
